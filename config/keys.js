@@ -4,3 +4,4 @@ module.exports = {
     "mongodb://127.0.0.1/ecomm",
     jwtSecret:"ecommerceSecret",
 };
+//key.js
